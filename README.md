@@ -21,7 +21,7 @@ You can download the patched and non-patched font from the [Github Release Page]
 ![](https://raw.githubusercontent.com/Damia12/IosevkaSS02F/main/images/IosevkaSS02F.png)
 
 ## Demo
-Iosevka-f font when applied to VS Code text editor, using Iosevka-F Regular.
+IosevkaSS02F font when applied to VS Code text editor, using Iosevka-F Regular.
 ![](https://github.com/Damia12/IosevkaSS02F/blob/main/images/Demo.png?raw=true)
 
 To be able to use font ligatures you have to activate them in VS Code settings.
